@@ -8,6 +8,7 @@ public class LabWebfluxApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LabWebfluxApplication.class, args);
+            System.out.println("Hello World!");
 	}
 
 }
