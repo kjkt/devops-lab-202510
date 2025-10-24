@@ -205,7 +205,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761154584290</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".ideaを管理対象から除外">
+      <option name="closed" value="true" />
+      <created>1761317694257</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761317694257</updated>
+    </task>
+    <task id="LOCAL-00003" summary=".ideaを管理対象から除外">
+      <option name="closed" value="true" />
+      <created>1761317696125</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761317696125</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -243,6 +259,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="indexページの表示を追加" />
-    <option name="LAST_COMMIT_MESSAGE" value="indexページの表示を追加" />
+    <MESSAGE value=".ideaを管理対象から除外" />
+    <option name="LAST_COMMIT_MESSAGE" value=".ideaを管理対象から除外" />
   </component>
 </project>
