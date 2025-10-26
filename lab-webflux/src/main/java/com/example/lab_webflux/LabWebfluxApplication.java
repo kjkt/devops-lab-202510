@@ -6,9 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class LabWebfluxApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(LabWebfluxApplication.class, args);
-            System.out.println("Start Application...");
-	}
-
+  public static void main(String[] args) {
+    SpringApplication.run(LabWebfluxApplication.class, args);
+    System.out.println("Start Application...");
+  }
 }
